@@ -1,0 +1,2 @@
+# Computer Vision library for image processing
+opencv-python>=4.8.0
